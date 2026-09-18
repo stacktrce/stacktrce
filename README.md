@@ -13,11 +13,7 @@
 
 ### 🏆 Notable Contribution
 
-[![probly commits](https://img.shields.io/badge/probly-Commits_View-blue?logo=github)](https://github.com/pwhofman/probly/commits?author=danielgieser)
-
-<a href="https://github.com/pwhofman/probly/commits?author=danielgieser">
-  <img src="./assets/Untitled.svg" alt="danielgieser contribution to pwhofman/probly">
-</a>
+[![probly commit](https://img.shields.io/badge/probly-Commit_3c72ed2-blue?logo=github)](https://github.com/pwhofman/probly/commit/3c72ed274bd4d723a3e5db9aeca21ee14aa67fbe)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stacktrce&icon=0&color=0)](https://visitcount.itsvg.in)
