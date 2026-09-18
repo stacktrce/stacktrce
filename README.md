@@ -13,7 +13,7 @@
 
 ### 🏆 Notable Contribution
 
-[![probly commit](https://img.shields.io/badge/probly-Commit_3c72ed2-blue?logo=github)](https://github.com/pwhofman/probly/commit/3c72ed274bd4d723a3e5db9aeca21ee14aa67fbe)
+[![probly PRs](https://img.shields.io/badge/probly-Pull_Requests-blue?logo=github)](https://github.com/pwhofman/probly/pulls?q=is%3Apr+author%3Astacktrce)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stacktrce&icon=0&color=0)](https://visitcount.itsvg.in)
