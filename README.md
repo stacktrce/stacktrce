@@ -13,7 +13,7 @@
 
 ### 🏆 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=stacktrce&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=stacktrce&limit=5)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stacktrce&icon=0&color=0)](https://visitcount.itsvg.in)
