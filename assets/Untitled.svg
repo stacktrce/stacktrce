@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="150" viewBox="0 0 560 150" role="img" aria-label="Contribution to probly">
+  <title>Contribution to pwhofman/probly</title>
+  <rect width="560" height="150" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="28" y="38" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700">
+    🏆 Notable Contribution
+  </text>
+
+  <text x="28" y="70" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">
+    pwhofman/probly
+  </text>
+
+  <text x="28" y="98" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15">
+    stacktrce · ≈2k lines contributed
+  </text>
+
+  <text x="28" y="124" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">
+    github.com/pwhofman/probly
+  </text>
+</svg>
