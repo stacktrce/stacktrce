@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Hi, I'm Daniel (19)<br>🔭 B.Sc. Media Informatics @ LMU Munich<br>💬 "In order to understand recursion, you must first understand recursion."<br>
+🧑‍💻 Hi, I'm Daniel (20)<br>🔭 B.Sc. Media Informatics @ LMU Munich | HR Solution Design @ Siemens Energy<br>💬 "In order to understand recursion, you must first understand recursion."<br>
 
 
 ## 🌐 Socials:
