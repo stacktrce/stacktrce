@@ -11,14 +11,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏆 Notable Contribution
+### 🏆 Open Source Contributions
 
 [![PR 256](https://img.shields.io/badge/probly-PR_%23256-brightgreen?logo=github)](https://github.com/pwhofman/probly/pull/256)
 [![PR 281](https://img.shields.io/badge/probly-PR_%23281-brightgreen?logo=github)](https://github.com/pwhofman/probly/pull/281)
-
-<a href="https://github.com/pwhofman/probly/pulls?q=is%3Apr+author%3Astacktrce">
-  <img src="./assets/Untitled.svg" alt="stacktrce contribution to pwhofman/probly">
-</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stacktrce&icon=0&color=0)](https://visitcount.itsvg.in)
